@@ -229,6 +229,7 @@ display: flex;
 flex-direction: row;
 gap: 160px;
 align-items: center;
+margin-top: 158px;
 }
 
 .line2-int{
@@ -247,4 +248,120 @@ font-style: normal;
 font-weight: 400;
 line-height: 177.9%; /* 28.464px */
 letter-spacing: 0.16px;
+}
+
+.Bell-Angle{
+position: absolute;
+margin:-65px 154px 328px 1160px ;
+}
+
+.kaktus2{
+    margin:378px 1028px 0 309px ;
+    position: absolute;
+    rotate:297deg ;
+}
+
+.section4-name{
+margin: 140px 0 0 119px;
+    color: #000;
+font-size: 36px;
+font-style: normal;
+font-weight: 500;
+line-height: 177.9%; /* 64.044px */
+letter-spacing: 0.36px;
+}
+.section4{
+    display: flex;
+    flex-direction: row;
+    gap: 84px;
+    margin: 63px 0 0 119px;
+}
+
+.section4-box{
+    display: flex;
+    flex-direction: column;
+}
+
+.section4-box-img{
+    width: 333px;
+height: 306px;
+border-radius: 45px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat, #C4C4C4;
+}
+
+.section4-box-text1{
+
+    width: 333px;
+color: #000;
+font-size: 23px;
+font-style: normal;
+font-weight: 600;
+line-height: 177.9%; /* 40.917px */
+letter-spacing: 0.23px;
+}
+
+.section4-box-text2{
+    width: 333px;
+    color: #424242;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 210.9%; /* 33.744px */
+    letter-spacing: 0.16px;
+}
+
+.line5{
+    width: 1440px;
+height: 534px;
+background: #E8F4FA;
+margin-top: 101px;
+}
+.line5_text{
+color: #252525;
+text-align: center;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height:  51px ;
+width: 516px;
+height: 91px;
+margin-bottom: 80px;
+}
+.line5-input{
+width: 532px;
+height: 67px;
+border-radius: 10px;
+background: #FFF;
+box-shadow: 0px 4px 84px 0px rgba(0, 0, 0, 0.07);
+}
+
+.line5-button{
+    width: 173px;
+height: 67px;
+border-radius: 10px;
+background: #000;
+color: #FFF4F4;
+text-align: center;
+font-size: 16px;
+font-weight: 500;
+line-height:27.2px ;
+
+}
+
+.svg_satar{
+position: absolute;
+width: 66px;
+height: 66px;
+transform: rotate(-24.8deg);
+margin: -44px 1185px 490px 167px;
+}
+
+
+.pai{
+width: 54px;
+height: 54px;
+position: absolute;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+margin: 138px 397px 386px 989px;
+
 }
